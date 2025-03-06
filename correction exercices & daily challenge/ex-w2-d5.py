@@ -1,6 +1,8 @@
 
 #!/usr/bin/env python3
 """
+Author : Clara Martinez 
+
 Mini-project Solution : Data Analysis For Marketing Strategy
 
 Objectifs :
